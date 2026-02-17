@@ -55,4 +55,4 @@ The design was imported from Stitch and implemented with pixel-perfect precision
 - `tailwind.config.js`: Tailwind CSS configuration including custom colors.
 
 
-## Thank You!😊❤️
+# Thank You!😊
