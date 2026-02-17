@@ -53,3 +53,6 @@ The design was imported from Stitch and implemented with pixel-perfect precision
 - `src/App.tsx`: Application entry point.
 - `src/index.css`: Global styles and Tailwind directives.
 - `tailwind.config.js`: Tailwind CSS configuration including custom colors.
+
+
+## Thank You!😊❤️
