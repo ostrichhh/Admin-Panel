@@ -1,3 +1,4 @@
+![dashboardui.png](assets/images/dashboardui.png)
 # Notarial Register Management Dashboard
 
 This project implements a modern dashboard for Notarial Register Management using React and Tailwind CSS.
@@ -55,4 +56,4 @@ The design was imported from Stitch and implemented with pixel-perfect precision
 - `tailwind.config.js`: Tailwind CSS configuration including custom colors.
 
 
-## Thank You!😊❤️
+# Thank You!😊
