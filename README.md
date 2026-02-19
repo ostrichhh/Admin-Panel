@@ -1,3 +1,4 @@
+![]
 # Notarial Register Management Dashboard
 
 This project implements a modern dashboard for Notarial Register Management using React and Tailwind CSS.
