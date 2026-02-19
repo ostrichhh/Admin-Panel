@@ -1,4 +1,4 @@
-![]
+![dashboardui.png](assets/images/dashboardui.png)
 # Notarial Register Management Dashboard
 
 This project implements a modern dashboard for Notarial Register Management using React and Tailwind CSS.
